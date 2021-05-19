@@ -1,3 +1,4 @@
+# https://www.w3schools.com/python/python_ml_getting_started.asp
 # Variance 
 # Variação 
 # Variância é outro número que indica como os valores estão espalhados. 
