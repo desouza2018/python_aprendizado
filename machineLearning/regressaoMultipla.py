@@ -2,10 +2,7 @@
 # Multiple Regression - Regressão Múltipla
 # A regressão múltipla é como regressão linear,mas com mais de um valor independente, 
 # o que significa que tentamos prever um valor baseado em duas ou mais variáveis. 
-# Dê uma olhada no conjunto de dados abaixo, ele contém algumas informações sobre carros.
-# Carro      - Modelo           -  Volume - peso -  CO2
-# Toyota     - Aygo             -	1000  - 790  -  99
-# Mitsubishi - Estrela Espacial	-   1200  - 1160 -	95
+# Dê uma olhada no conjunto de dados no arquivo cars.csv
 
 # Podemos prever a emissão de CO2 de um carro com base no tamanho do motor,
 # mas com a regressão múltipla podemos lançar mais variáveis, como o peso do carro, 
