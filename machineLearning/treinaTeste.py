@@ -42,3 +42,4 @@ plt.show()
 # test_y = y[80:]
 
 # Ver os arquivos: treinar.py e teste.py
+# ok vou ver
